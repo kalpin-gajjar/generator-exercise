@@ -1,0 +1,8 @@
+Description:
+    Explain the generator
+
+Example:
+    bin/rails generate index_view Thing
+
+    This will create:
+        app/views/Thing/index.html.erb
